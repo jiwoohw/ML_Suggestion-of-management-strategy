@@ -38,11 +38,11 @@
   </br>
 - 8주동안 매출 학습하여 그 이후 1주 예측 </br>
 1) Machine Learning  </br>
-   : xgb
+   : XGB
 2) Deep Learning  </br>
-   : lstm
+   : LSTM
 
-- rmse기준 성능이 가장 좋은 lstm으로 다음 주 매출 예측 
+- RMSE 기준 성능이 가장 좋은 LSTM으로 다음 주 매출 예측 
 ![image](https://github.com/jiwoohw/ML_Suggestion-of-management-strategy/assets/122995812/3b2bb200-a2fd-4ca9-9eb4-1f5037c5fda0)
 </br>
 
