@@ -1,5 +1,5 @@
 # 💡📑 [ML]Suggestion-of-management-strategy 📑💡
- Sales forecasting and RFM analysis using kaggle olist data
+ Sales forecasting and RFM analysis using kaggle olist data  </br>
  프로젝트 기간 : 2023.5.3 - 2023.5.26
  </br>
 
