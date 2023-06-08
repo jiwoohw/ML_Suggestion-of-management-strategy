@@ -55,6 +55,8 @@
 3) rfm_score으로 segmentation 진행
 4) olist 고객 segmentation 비중 확인 후, 고객 등급화
 ![image](https://github.com/jiwoohw/ML_Suggestion-of-management-strategy/assets/122995812/526414c8-a1d1-4417-a1c6-f83f90259e8a)
+![image](https://github.com/jiwoohw/ML_Suggestion-of-management-strategy/assets/122995812/e86247d0-c396-4ec5-9eb0-4743bc06590f)
+
 
 
 </br>
